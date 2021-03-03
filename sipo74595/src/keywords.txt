@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map  sipo74595
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+sipo74595	KEYWORD1	sipo74595
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+bit_set  	KEYWORD2
+bit_reset	KEYWORD2
+port_set	KEYWORD2
+port_reset 	KEYWORD2
+reset_all 	KEYWORD2
+set_all 	KEYWORD2
+init 		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
